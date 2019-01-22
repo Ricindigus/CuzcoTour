@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Cuzco Tour</string>
+    <string name="menu_principal_informacion">INFORMACIÓN</string>
+    <string name="menu_principal_lugares">LUGARES</string>
+    <string name="menu_principal_festividades">FESTIVIDADES</string>
+    <string name="menu_principal_comida">COMIDAS</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_uno_informacion">GENERAL</string>
+    <string name="page_dos_informacion">CLIMA</string>
+    <string name="page_tres_informacion">VIAS ACCESO</string>
+    <string name="page_cuatro_informacion">CONSEJOS</string>
+
+    <string name="lugares_centros_arqueologicos">CENTROS ARQUEOLÓGICOS</string>
+    <string name="lugares_iglesias_conventos">IGLESIAS Y CONVENTOS</string>
+    <string name="lugares_museos">MUSEOS</string>
+    <string name="lugares_casas_coloniales">CASAS COLONIALES</string>
+    <string name="lugares_palacios_inca">PALACIOS INCA</string>
+    <string name="lugares_atractivos_naturales">ATRACTIVOS NATURALES</string>
+
+    <string name="informacion_general">
+        <b>\nUBICACIÓN</b>
+\nUbicada en la región sur oriental de la Cordillera de los Andes, la ciudad del Cusco es el principal destino turístico del Perú y uno de los más importantes de América Llamada por los Incas “casa y morada de los dioses”. Cusco se convirtió en la capital de uno de los más grandes imperios precolombinos: el Tahuantinsuyo. Su nombre en quechua, Qosqo significa “ombligo del mundo”, debido a que de ella partía una vasta red de caminos que unía prácticamente toda Sudamérica, desde el sur de Colombia hasta el norte de Argentina.
+
+\nPero el Cusco es, además, una ciudad mestiza y colonial, con espléndidos templos y casonas que se levantan sobre basamentos de roca finamente labrada y con una rica gastronomía compuesta por platos que combinan de manera magistral los productos del Ande, como el choclo, las papas y el ají con la carne de cerdo y de carnero introducidas por los españoles. Tierra de grandes paisajes, rica historia y fascinante geografía, Cusco es, sin duda, una ciudad que todo viajero anhela conocer.
+
+<b>\n\nLEYENDA E HISTORIA</b>
+\nSi bien el río Huatanay, sobre el que se levanta la ciudad del Cusco, estuvo poblado muchos siglos antes de la llegada de los Incas, es recién durante su dominio (1438-1532 DC.) que la región alcanza su máximo apogeo como centro administrativo, religioso y militar del Perú prehispánico. Su origen como ciudad se pierde en los mitos y leyendas de formación del imperio incaico.
+
+\nUno de los más populares, difundido a partir de las crónicas del Inca Gracilazo de la Vega, es el que narra la historia de una mítica -Manco Capac y Mama Occllo- que emergió de las aguas del lago Titicaca para fundar el Cusco y enseñar a su pueblo a cultivar la tierra. La ciudad fue dividida en dos sectores: uno alto o Hanan y otro bajo o Hurin, en correspondencia con la población tanto geográfica como jerárquica de sus residentes. Se dice, además, que su primer trazo tuvo la forma de un puma con cabeza de halcón.
+
+\nCon la llegada de los españoles, en 1533, muchas construcciones prehispánicas fueron destruidas o sirvieron como base de nuevas edificaciones, construyéndose templos, conventos y mansiones de estilo barroco y renacentista. Desde entonces, el Cusco se convirtió en una de las más sublimes expresiones del mestizaje de América.
+
+<b>\n\nUBICACIÓN Y SUPERFICIE</b>
+\nLa ciudad del Cusco - Perú se encuentra situada en la zona central y sur oriental del Perú, exactamente en la parte occidental del valle del río Watanay. El departamento tiene una extensión de 76,225 Km², el 5.9% del territorio peruano (1\'285,215 Km² ). La Provincia del Cusco tiene una extensión de 523 Km².
+
+\nEn el Cusco existen tres grandes unidades de territorio que pueden leerse siguiendo la orientación noroeste y sudeste del departamento. Estos grandes conjuntos territoriales contienen zonas altoandinas y selvas, con límites precisados únicamente por una interpretación de variables fisiológicas y climáticas generales, pero que son útiles para entender la enorme diversidad del espacio cusqueño.
+
+<b>\n\nLIMITES</b>
+\nLimita por el norte con las selvas de Junín y Ucayali, por el sur con Arequipa y Puno, por el este con el gran llano amazónico de Madre de Dios y por el oeste con la sierra de Apurímac y la selva de Ayacucho. En la actualidad, de acuerdo con el proceso de regionalización iniciado en 1988, el departamento del Cusco se ha convertido en una Región.
+
+<b>\n\nALTITUD</b>
+\nCusco se ubica aproximadamente sobre los 3,350 m.s.n.m. y es considerada una de las ciudades más altas del mundo.
+
+<b>\n\nLATITUD Y LONGITUD</b>
+\nLa ciudad se encuentra a 13° 30\' 45\" latitud Sur y a 71° 58\' 33\" longitud Oeste a partir del meridiano de Greenwich.
+
+        <b>\n\nSUPERFICIE</b>
+\n- República del Perú: 1\'285,215 Km²
+\n- Departamento del Cusco: 76,225 Km²
+\n- Provincia del Cusco: 523 Km².
+
+<b>\n\nHORA</b>
+\nLa hora peruana se ubica 5 h después del GMT (Greenwich Meridian Time) y es similar a la hora EST (Eastern Standard Time) de los Estados Unidos.
+
+\nHoras referenciales: cuando en el Perú son las 12 del mediodía, en Santiago y Caracas son las 13 horas; en Río de Janeiro y Buenos Aires son las 14 horas; en Nueva York las 12 horas, y en Tokio, las 2 horas del día siguiente.
+
+<b>\n\nIDIOMA</b>
+\nEl idioma oficial es el Castellano, pero en mucha regiones del Cusco se siguen utilizando el idioma de los antiguos peruanos el Quechua. La mayoría de los tours que se realizan en la ciudad del Cusco se ofrecen en dos idiomas Castellano e Ingles.
+
+<b>\n\nPOBLACIÓN</b>
+\nLa proyección poblacional en la ciudad del Cusco para inicios del siglo XXI es de unos 300,000 habitantes, con una tasa de crecimiento aproximada del 4% anual.
+
+<b>\n\nCORRIENTE ELÉCTRICA</b>
+\nEs de 220V, 60 Hz. Los echufes planos europeos y americanos requieren adaptadores.
+
+<b>\n\nPESOS Y MEDIDAS</b>
+\nKilogramos y Sistema Métrico Decimal
+
+<b>\n\nMONEDA</b>
+\nLa moneda oficial en el Perú es el Nuevo Sol y su símbolo es el S/. Este se emite en billetes de 10, 20, 50, 100 y 200 nuevos soles; en monedas de 1,2 y 5 nuevos soles, y en 10, 20 y 50 céntimos de nuevo sol.
+    </string>
+
+    <string name="informacion_clima">
+        El clima cusqueño es relativamente fresco. La temperatura promedio anual fluctúa entre los 4.2°C y los 19.6°C (entre 39.6° y 67.3° Fahrenheit). Hay un poco de uniformidad en la temperatura entre verano e invierno. Normalmente hace frío en la noche y durante las primeras horas de la mañana aumenta considerablemente la temperatura hasta el mediodía. En los días soleados la temperatura alcanza los 20°C
+\nCusco se halla bajo la influencia macro-climática de grandes masas de aire provenientes de la selva sur oriental, del Altiplano, e incluso de la lejana región de la Patagonia. Los vientos que llegan del Altiplano peruano-boliviano son más bien fríos y secos, al igual que los que provienen de la Patagonia, ingresando por la zona sur oriental y que por lo general suponen eventos climáticos de mayor escala.
+
+\nPor otro lado, los vientos locales que se generan en sus valles y en sus llanuras tienen la función de distribuir calor y humedad a lo largo del día. Los vientos de la selva sur implican inmensas masas de aire cargadas de humedad, que son impulsadas por los vientos alisios del oriente.
+
+\nLa altitud en la que se encuentra el Cusco y su proximidad al ecuador genera una variedad de climas en los que se distinguen dos estaciones bien definidas:
+
+\n-La estación de lluvias, que va de noviembre a marzo. La media de las precipitaciones anuales fluctúa entre los 600 a 1000 mm.
+
+\n-La estación seca, de abril hasta octubre con intenso frío en las mañanas y en las noches, durante el mes de junio (tiempo de heladas) la temperatura cae frecuentemente hasta 5° ó 7°C (23° ó 19.4°F) e inclusive puede llegar a bajo cero.
+
+\n\nClimas Cálidos (húmedos y secos)
+
+\n\nClimas Húmedos:
+\nCorresponden a las zonas de selva baja, tanto al norte, en el bajo Urubamba, como al este del departamento, en la entrada de los valles Pillcopata y Araza.
+\n• Precipitaciones: más de 1,000 mm. al año
+\n• Temperaturas:
+\nMáxima: alrededor de 30°
+\nMediana: entre 23° y 25°
+\nMínima: alrededor de 20°
+
+\n\nClimas Secos:
+\nLos climas cálidos y secos, en cambio, se dan en las yungas bajas que aparecen, en forma de cañones, en la cuenca del río Apurímac, al centro y suroeste del departamento.
+\n• Precipitaciones: menos de 500 mm. al año
+\n• Temperaturas:
+\nMáxima: hasta 32°
+\nMediana: entre 17° y 18°
+\nMínima: hasta 4.4°
+
+\n\nClimas Templados (húmedos y secos)
+\nClimas de los valles interandinos que dominan la zona central del territorio cusqueño, donde la diferencia en humedad está marcada por la ubicación en la vertiente. Es decir, la cercanía al oriente implica más humedad, mientras que la proximidad al occidente implica mayor sequedad. Las zonas de clima templado son de vital importancia para el asentamiento de las poblaciones.
+\n• Temperaturas:
+\nMáxima: hasta 29°
+\nMediana: entre 11° y 16°
+\nMínima: entre 7° y -4°
+
+\n\nClimas Fríos (húmedos y secos)
+\nSe dan, principalmente, en las zonas altas de los valles, en las punas y en las regiones que rodean a los glaciares; es decir, en áreas que se encuentran por encima de los 3,800 m.s.n.m.
+\n• Temperaturas:
+\nMáxima: hasta 10°
+\nMediana: varían conforme la altitud.
+\nMínima: bajo los 0°
+
+\n\nHUMEDAD: En la sección mas baja del Valle del Cusco hay un promedio de humedad anual de 64%.
+    </string>
+    <string name="titulo_lugares">Lugares</string>
+    <string name="titulo_informacion">Información</string>
+    <string name="titulo_festividades">Festividades</string>
+    <string name="titulo_comidas">Comidas</string>
+</resources>

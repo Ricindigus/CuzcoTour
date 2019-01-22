@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:padding="8dp"
+    android:orientation="horizontal">
+    <ImageView
+        android:id="@+id/imagen_festividad"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher"
+        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_height="match_parent"
+        android:paddingLeft="8dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/titulo_festividad"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Carnavales en Cusco"/>
+        <TextView
+            android:textStyle="italic"
+            android:id="@+id/fecha_festividad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="03 de Marzo"/>
+        <TextView
+            android:id="@+id/descripcion_festividad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Festividad que une a la población cusqueña a través de la alegoría y el juego mesurado. Las “yunzas o cortamontes “, son el principal atractivo de esta fiesta que consiste en la profusión del juego con agua, talco y mixtura"/>
+    </LinearLayout>
+
+</LinearLayout>
